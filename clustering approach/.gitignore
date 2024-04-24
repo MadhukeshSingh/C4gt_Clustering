@@ -1,0 +1,6 @@
+working-files/*
+.vscode/*
+.ipynb_checkpoints/*
+.env
+*.csv
+.idea
